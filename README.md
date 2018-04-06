@@ -7,7 +7,7 @@ By:LWD
 ``import blessme``
 或直接运行
 ## FUNCTIONS
-    blessme.doit()
+    blessme.doit()
         开始祝福
 
     blessme.doitwithcountlimit()
