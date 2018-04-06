@@ -20,7 +20,7 @@ def setcount(cl):
     '''设置祝福次数限制(若使用 doitwithcountlimit() )，默认5次'''
     '''单位:次'''
     climit=int(cl)
-def settimeout(t)
+def settimeout(t):
     global timeout
     '''设置每次祝福间隔时间，默认1s'''
     '''单位:秒'''
