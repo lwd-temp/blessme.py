@@ -44,8 +44,8 @@ def doitwithcountlimit():
         else:
             time.sleep(timeout)
 if __name__ == '__main__':
-    settext(input("输入祝福内容:"))
-    setcount(input("设置每次祝福间隔时间 不能为0:"))
+    bless=input("输入祝福内容:")
+    timeout=int(input("设置每次祝福间隔时间 不能为0:"))
     choice=str(input("是否设置次数限制 1是 其他否:"))
     if choice==str(1):
         climit=int(input("设置次数限制:"))
