@@ -1,5 +1,5 @@
 # blessme.py
-By:LWD
+作者:LWD
 重复输出文字起祝福作用
 ## 运行平台
 跨平台，Python3
