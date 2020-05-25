@@ -1,5 +1,5 @@
 # blessme.py
-作者:LWD
+作者:lwd-temp  
 重复输出文字起祝福作用
 ## 运行平台
 跨平台，Python3
@@ -21,5 +21,3 @@
 
     blessme.settimeout(t)
         设置每次祝福间隔时间，默认1s
-# 关于bless.py和其他文件
-基础代码或在项目发展过程中的成功实例或衍生版本
